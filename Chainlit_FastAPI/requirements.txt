@@ -1,0 +1,6 @@
+chainlit
+cohere
+openai
+tiktoken
+python-dotenv
+pydantic
